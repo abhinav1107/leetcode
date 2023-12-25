@@ -1,0 +1,5 @@
+- [Home](/)
+- Problems
+  - Easy
+    - [Two Sum](problems/easy/0001-two-sum/README.md)
+    - [Palindrome Number](problems/easy/0009-palindrome-number/README.md)
