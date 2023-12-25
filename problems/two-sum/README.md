@@ -24,9 +24,9 @@ __Constraints__:
 __Follow-up__: Can you come up with an algorithm that is less than O(n<sup>2</sup>) time complexity?
 
 ***
-# My Solution
+## My Solution
 
-## Explanation
+### Explanation
 Things to keep in mind:
 - there is only one solution in given input, meaning the moment we find two numbers whose sum is equal to target, we can return. We don't have to move any further in the list.
 - we can not use the same element twice to get the sum as target.
@@ -44,7 +44,7 @@ Since one of the asks is to reduce time complexity from O(n<sup>2</sup>), we sho
         return []
 ```
 
-# Best Solution by Memory from Leetcode:
+## Best Solution by Memory from Leetcode:
 A solution that does really well Memory wise is:
 ```python
     def twoSum(self, nums: List[int], target: int) -> List[int]:
