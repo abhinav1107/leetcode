@@ -1,6 +1,6 @@
 # [Two Sum](https://leetcode.com/problems/two-sum/)
 
-Level: <code style="color: green">Easy</code>
+Level: $\color{green}{Easy}$
 
 Given an array of integers `nums` and an integer `target`, return _indices_ of the two numbers such that they add up to `target`. You may assume that each input would have __exactly one solution__, and you may not use the same element twice. You can return the answer in any order.
 
