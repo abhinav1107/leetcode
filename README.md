@@ -1,5 +1,5 @@
-# leetcode
+# Leetcode Solutions
 
-leetcode solutions
-- [Two Sum](/problems/0001-two-sum/)
-- [Palindrome Number](/problems/0002-palindrome-number/)
+My attempt at solving [Leetcode Problems](https://leetcode.com/problemset/)
+
+This static site is getting served by [GitHub Pages](https://pages.github.com/) and [Docsify](https://docsify.js.org)
