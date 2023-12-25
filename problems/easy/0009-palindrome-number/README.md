@@ -47,7 +47,7 @@ A quick check would be every negative number is not-palindrome or any number bet
         return arr == arr[::-1]
 ```
 
-## Best Solution including Follow-up requirement
+## Best Solution
 ```python
     def isPalindrome(x: int) -> bool:
         if x < 0 or (x % 10 == 0 and x != 0):
@@ -70,7 +70,8 @@ Now that I have seen this solution, it does make sense.
 
 Start by creating two numbers, one number which is copy of given number and other number which is 0. Then keep dividing the first number and adding the remainder to reverse number till first number is greater than reversed number. At the end, we would either be a number which is equal to reverse of first number or something that once divided by 10 once, will give the first number. This condition will depend on if the length of x is odd or even.
 
-## Fastest solution without including Follow-up requirement
+## Fastest solution
+This is simple enough and doesn't require explanations.
 ```python
     def isPalindrome(x: int) -> bool:
         x = str(x)

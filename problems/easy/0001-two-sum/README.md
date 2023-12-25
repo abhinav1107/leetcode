@@ -44,7 +44,7 @@ Since one of the asks is to reduce time complexity from O(n<sup>2</sup>), we sho
         return []
 ```
 
-## Best Solution by Memory from Leetcode:
+## Best Solution by Memory:
 A solution that does really well Memory wise is:
 ```python
     def twoSum(self, nums: List[int], target: int) -> List[int]:
