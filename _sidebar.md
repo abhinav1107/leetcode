@@ -3,3 +3,4 @@
   - Easy
     - [Two Sum](problems/easy/two-sum/README.md)
     - [Palindrome Number](problems/easy/palindrome-number/README.md)
+    - [Roman to Integer](problems/easy/roman-to-integer/README.md)
