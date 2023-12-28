@@ -1,0 +1,5 @@
+- [Home](/#solutions)
+- Easy
+  - [Two Sum](easy/two-sum/README.md)
+  - [Palindrome Number](easy/palindrome-number/README.md)
+  - [Roman to Integer](easy/roman-to-integer/README.md)
