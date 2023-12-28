@@ -46,7 +46,7 @@ __Constraints__:
 
 ### Explanation
 The algorithm is pretty simple for the most part
-- Start by creating a dictionary that stores numerical value of roman character, so that we can reference it during out run.
+- Start by creating a dictionary that stores numerical value of roman character, so that we can reference it during our run.
 - loop over each character, find its value from the above-mentioned dictionary and keep adding them.
 
 Just one case we need to address in above. What happens when the roman number is something like `IV` or `IX` or `XL`, etc.

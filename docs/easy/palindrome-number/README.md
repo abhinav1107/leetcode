@@ -6,7 +6,7 @@ Given an integer `x`, return `true` if `x` is a palindrome , and `false` otherwi
 
 __Example 1__:
 > __Input__: x = 121</br>
-> __Output__: true
+> __Output__: true</br>
 > __Explanation__: 121 reads as 121 from left to right and from right to left.
 
 __Example 2__:
