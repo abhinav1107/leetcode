@@ -9,6 +9,3 @@
 
 [GitHub](https://github.com/abhinav1107/leetcode)
 [Solutions](#solutions)
-
-<!-- background image -->
-![](_media/bg.png)
