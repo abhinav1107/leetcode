@@ -49,3 +49,25 @@ Coming back to the problem, things to consider:
 ```
 
 Apparently this was the best runtime solution.
+
+## Best Memory Solution
+```python
+    def longestCommonPrefix(strs: List[str]) -> str:
+        if not strs:
+            return ""
+
+        prefix = strs[0]
+        for mot in strs:
+            tempPrefix = ""
+            for i in range(min(len(prefix), len(mot))):
+                if prefix[i] == mot[i]:
+                    tempPrefix += mot[i]
+                else:
+                    break
+            prefix = tempPrefix
+
+            if not prefix:
+                break
+
+        return prefix
+```
