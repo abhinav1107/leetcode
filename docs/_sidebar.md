@@ -4,3 +4,4 @@
   - [Palindrome Number](easy/palindrome-number/README.md)
   - [Roman to Integer](easy/roman-to-integer/README.md)
   - [Longest Common Prefix](easy/longest-common-prefix/README.md)
+  - [Plus Minus](easy/hackerrank-plus-minus-ratio/README.md)
